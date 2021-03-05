@@ -2,64 +2,44 @@ let barbeiro = [
   {
     nome: 'Leo-fodão',
     especialidade: 'Cabelo',
-    img:'barPerfilTemp.png',
+    img:'barPerfilTemp1.png',
   },
   {
     nome: 'Bruno-Xato',
     especialidade: 'Barba',
-    img:'barPerfilTemp.png',
+    img:'barPerfilTemp2.png',
   },
   {
     nome: 'Lobao-falador',
     especialidade: 'barba',
-    img:'barPerfilTemp.png',
+    img:'barPerfilTemp3.png',
   },
   {
     nome: 'Eduardo-calado',
     especialidade: 'unha',
-    img:'barPerfilTemp.png',
-  },
-  {
+    img:'barPerfilTemp4.png',
+  },{
     nome: 'Leo-fodão',
     especialidade: 'Cabelo',
-    img:'barPerfilTemp.png',
+    img:'barPerfilTemp1.png',
   },
   {
     nome: 'Bruno-Xato',
     especialidade: 'Barba',
-    img:'barPerfilTemp.png',
+    img:'barPerfilTemp2.png',
   },
   {
     nome: 'Lobao-falador',
     especialidade: 'barba',
-    img:'barPerfilTemp.png',
+    img:'barPerfilTemp3.png',
   },
   {
     nome: 'Eduardo-calado',
     especialidade: 'unha',
-    img:'barPerfilTemp.png',
+    img:'barPerfilTemp4.png',
   },
-  {
-    nome: 'Leo-fodão',
-    especialidade: 'Cabelo',
-    img:'barPerfilTemp.png',
-  },
-  {
-    nome: 'Bruno-Xato',
-    especialidade: 'Barba',
-    img:'barPerfilTemp.png',
-  },
-  {
-    nome: 'Lobao-falador',
-    especialidade: 'barba',
-    img:'barPerfilTemp.png',
-  },
-  {
-    nome: 'Eduardo-calado',
-    especialidade: 'unha',
-    img:'barPerfilTemp.png',
-  },
-
+  
+  
 ]
 
 module.exports = barbeiro;
